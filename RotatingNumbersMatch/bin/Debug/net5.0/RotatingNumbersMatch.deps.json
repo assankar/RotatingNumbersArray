@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RotatingNumbersMatch/1.0.0": {
+        "runtime": {
+          "RotatingNumbersMatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RotatingNumbersMatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
